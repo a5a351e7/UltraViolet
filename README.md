@@ -10,14 +10,14 @@ Determination of the SRM value involves measuring the attenuation of light of a 
 
 ## Changelog
 | Date          | Remark        |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | 14-3-2018     | Initial setup of the documentation |
 
 ## Introduction
 ### Background on SRM/EBC
 
 | SRM/Lovibond | Example | EBC |
-| ------------- |:-------------:|:-------------:|
+| ------------- | ------------- | ------------- |
 | 2 | Pale lager, Witbier, Pilsener, Berliner Weisse | 4 |
 | 3 | Maibock, Blonde Ale | 6 |
 | 4 | Weissbier | 8 |
