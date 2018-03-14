@@ -1,6 +1,6 @@
 # UltraViolet
-Electronic EBC/SRM meter, also called colorimeter, to measure the color value of beer.
-Determination of the SRM value involves measuring the attenuation of light of a particular wavelength (430 nm) in passing through 1 cm of the beer, expressing the attenuation as an absorption and scaling the absorption by a constant (12.7 for SRM; 25 for EBC).
+Electronic EBC/SRM meter, also called colorimeter, to measure the color value of beer based on the Arduino platform.
+Determination of the SRM value is done by measuring the attenuation of light with a wavelength  of 430 nm (violet), passing through 1 cm of the beer using a cuvette, hitting a light sensor that measures the intensity. The absorption is then calculated to EBC/SRM by the Arduino and shown on a LED display.
 
 ## Small donation
 [Yes, I want to make a small donation!](https://www.paypal.me/jankees "PayPal.Me")
