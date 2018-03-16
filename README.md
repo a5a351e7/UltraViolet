@@ -61,7 +61,7 @@ Primary actor: Brewer
 Steps
 1. Brewer turns the Ultraviolet on with holding the measure button.
 2. Ultraviolet displays the instruction to fill with water.
-3. Brewer takes the cuvette out of the holder and fills it with clear water.
+3. Brewer takes the cuvette out of the holder and fills it with distilled water.
 4. Brewer places the cuvette back in the holder and presses the measure button shortly.
 5. Ultraviotet turns on the LED, measures the light intensity, stores the value and turns off the LED.
 6. UltraViolet displays the instruction to fill with beer with a dilution of 1:1.
@@ -96,7 +96,7 @@ The absorption is the log of the ratio of the intensity of the light beam enteri
 A430 = -log10(I/Io)
 SRM = 12.7 * D * A430
 
-Io = the intensity when it passes through the water sample.
+Io = the intensity when it passes through the distilled water sample.
 I = the intensity of the light after it passes through the beer.
 D = the dilution factor D=1 for undiluted samples, D=2 for 1:1 dilution etc.
 A = the absorbance at 430 nm in 1 cm.
