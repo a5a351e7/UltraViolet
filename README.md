@@ -96,10 +96,10 @@ The absorption is the log of the ratio of the intensity of the light beam enteri
 A430 = -log10(I/Io)
 SRM = 12.7 * D * A430
 
-Io = the intensity when it passes through the water sample.
-I = the intensity of the light after it passes through the beer.
-D = the dilution factor D=1 for undiluted samples, D=2 for 1:1 dilution etc.
-A = the absorbance at 430 nm in 1 cm.
+Io = the intensity when it passes through the water sample
+I = the intensity of the light after it passes through the beer
+D = the dilution factor D=1 for undiluted samples, D=2 for 1:1 dilution etc
+A = the absorbance at 430 nm in 1 cm
 
 Example: If the light intensity leaving is one one-hundredth the light intensity entering the ratio is 100, the absorption is 2 and the SRM is 25.4.
 
