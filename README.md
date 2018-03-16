@@ -46,6 +46,7 @@ The following parts are needed to create the UltraViolet.
 * SI1145 UV IR Visible Sensor
 * Pushbutton
 
+[Data sheet SI1145](https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf "Data sheet SI1145")
 
 ### Electronic schema
 
